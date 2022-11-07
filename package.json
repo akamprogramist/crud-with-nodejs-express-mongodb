@@ -1,0 +1,24 @@
+{
+  "name": "crud-with-nodejs-express-mongodb",
+  "version": "1.0.0",
+  "description": "crud application with node , mongodb",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akamprogramist/crud-with-nodejs-express-mongodb.git"
+  },
+  "keywords": [
+    "crud",
+    "mongodb"
+  ],
+  "author": "akam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akamprogramist/crud-with-nodejs-express-mongodb/issues"
+  },
+  "homepage": "https://github.com/akamprogramist/crud-with-nodejs-express-mongodb#readme"
+}
